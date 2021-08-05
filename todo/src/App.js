@@ -31,13 +31,13 @@ function App(todo) {
     },
     {
       sno:2,
-      title:"Learn React Native",
+      title:"After Learning React Native",
       desc: "Make Awesome Apps"
 
     },
     {
       sno:3,
-      title:"Learn React Native",
+      title:"After Doing a Few Projects and Clones in React Native",
       desc: "Make a Great Project"
 
     }
